@@ -1,15 +1,17 @@
 p{
-    color: blue;
+    color: black;
     font-size: 20px;
     text-align: center;
   }
   p2{
+      border: 1px solid powderblue;
       color: blue;
       font-size: 20px;
-      text-align: center;
+      text-align: left;
     }
     p4{
+        border: 1px solid powderblue
         color: red;
         font-size: 20px;
-        text-align: center;
+        text-align: left;
       }
