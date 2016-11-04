@@ -1,17 +1,11 @@
-p{
+h1{
     color: black;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
   }
-  p2{
+  p{
       border: 1px solid powderblue;
       color: blue;
-      font-size: 20px;
+      font-size: 30px;
       text-align: left;
     }
-    p4{
-        border: 1px solid powderblue
-        color: red;
-        font-size: 20px;
-        text-align: left;
-      }
